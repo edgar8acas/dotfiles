@@ -1,0 +1,11 @@
+android-studio
+clion
+code
+gitkraken
+indicator-sensors
+libreoffice
+postman
+pycharm-professional
+simplescreenrecorder-brlin
+spotify
+webstorm

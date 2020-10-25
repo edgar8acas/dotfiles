@@ -1,0 +1,16 @@
+ardour-git
+auracle-git
+datagrip
+discord-canary
+gitkraken
+google-chrome
+hivex
+jdk8
+kazam
+pacaur
+pulseeffects
+rstudio-desktop-bin
+snapd
+visual-studio-code-bin
+zoom
+zotero
